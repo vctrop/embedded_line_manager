@@ -1,5 +1,7 @@
-# embedded_line_manager
-A line manager embedded in an Atmel SAM R21 microontroller
+# embedded_queue_manager
+A queue manager embedded in an Atmel SAM R21 microontroller.
+
+The manager deals with three types of priority in its queue. It can be used to manage various types of real life queues, such as those found on supermarkets, banks, hospitals and others.
 
 This project was implemented in Atmel Studio 7.0, and is dependent uppon the following Atmel ASF Wizard extension modules:
 - Generic board support (driver)
